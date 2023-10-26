@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054768828048",
+    "project_id": "quienquieresermillonario-9b7b3",
+    "storage_bucket": "quienquieresermillonario-9b7b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054768828048:android:aedbc76615141a9929d215",
+        "android_client_info": {
+          "package_name": "com.example.quienquieresermillonario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ3VdbqvW8_tGFyWlv2sKWfGcQUN0AA8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
